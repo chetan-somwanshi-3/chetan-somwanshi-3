@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chetan Somwanshi</h1>
+<h3 align="center">Aspiring AI/ML Engineer from India</h3>
 
-<!--
-**chetan-somwanshi-3/chetan-somwanshi-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+I am an aspiring **AI/ML Engineer** with strong fundamentals in **Python, Machine Learning, and Data Analytics**.  
+I focus on building **intelligent, scalable, and data-driven solutions** that solve real-world problems.  
+I enjoy exploring **ML pipelines, model optimization, and deployment workflows** to take ML models from experimentation to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Based in **Maharashtra, India**  
+- 📧 Email: **chetan.somwanshi.ml@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/chetan-somwanshi** 
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chetan-somwanshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="mailto:chetan.somwanshi.ml@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
+---
