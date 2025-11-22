@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chetan Somwanshi</h1>
-<h3 align="center">Aspiring AI/ML Engineer from India</h3>
+<h3 align="center">AI/ML Engineer from India</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-I am an aspiring **AI/ML Engineer** with strong fundamentals in **Python, Machine Learning, and Data Analytics**.  
+I am an **AI/ML Engineer** with strong fundamentals in **Python, Machine Learning, and MLOps**.  
 I focus on building **intelligent, scalable, and data-driven solutions** that solve real-world problems.  
 I enjoy exploring **ML pipelines, model optimization, and deployment workflows** to take ML models from experimentation to production.
 
